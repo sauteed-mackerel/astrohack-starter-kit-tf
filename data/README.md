@@ -7,9 +7,9 @@ Expected folder structure:
     train_metadata.tsv
     eval_metadata.tsv
     train_images_69pix/
-       1234567.png
-       ...
+        1234567.png
+        ...
     evaluation_images_69pix/
-       2345678.png
-       ...
+        2345678.png
+        ...
 ```
