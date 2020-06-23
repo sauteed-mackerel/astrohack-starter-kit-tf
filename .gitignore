@@ -1,3 +1,11 @@
+eval_submission.tsv
+data/*.tsv
+data/*.zip
+data/train_images_69pix
+data/evaluation_images_69pix
+data/train_images_128pix
+data/evaluation_images_128pix
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
