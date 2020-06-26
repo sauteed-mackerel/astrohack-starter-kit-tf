@@ -9,7 +9,7 @@ This tutorial is written and tested with Python 3.6.
 
 ### Local Environment
 
-This would the the preferred option if you already have a local Python environment configured and your machine has a descent GPU.
+This would be the the preferred option if you already have a local Python environment configured and your machine has a descent GPU.
 
 1. Clone this repository to your local environment
 2. Install and serve a [Jupyter notebook host](https://jupyter.readthedocs.io/en/latest/install.html) from the cloned directory
