@@ -26,7 +26,8 @@ If you are unfamiliar with Python configurations or your local machine does not 
 3. On the navigation panel to the left, find the `Notebook` section and then select `Notebook instances`
 4. Create a notebook instance    
     - You can leave most options to their default values
-    - In the optional `Git repositories` section, select `clone a public Git repository to this notebook instance only` and enter the URI of this repository.
+    - It is recommend to use `ml.p2.xlarge` or `ml.p3.2xlarge` instances which allow GPU computation.
+    - In the optional `Git repositories` section, select `clone a public Git repository to this notebook instance only` and enter the URI of this repository (`https://github.com/yaodongjia/astrohack-starter-kit-tf.git`).
     - Confirm and create a notebook instance
     - It may take a few minutes before your notebook instance is ready    
     
